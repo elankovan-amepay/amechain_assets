@@ -7,3 +7,6 @@ The Ethereum platform supports ether in addition to a network of decentralized a
 Smart contracts, which originated on the Ethereum platform, are a central component of how the platform operates. 
 Many decentralized finance (DeFi) and other applications use smart contracts in conjunction with blockchain technology.
 As a cryptocurrency, Ethereum is second in market value only to Bitcoin as of January 2022.1
+
+[Poject URL](https://www.google.co.in/)\
+[Whitepaper](https://en.wikipedia.org/wiki/Ethereum)
