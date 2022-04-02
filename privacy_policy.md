@@ -1,5 +1,3 @@
-## Privacy Policy
-
 **1. Your privacy is important to us.**
 
 We don’t ask for your personal information unless we truly need it. It is AMEPAY Limited policy to respect your privacy regarding any information we may collect from you across our website http://amechain.io/
